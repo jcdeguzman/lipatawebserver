@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c47485ac.css",
+    "main.js": "/static/js/main.8595956a.js",
+    "static/js/787.d1d4a2c2.chunk.js": "/static/js/787.d1d4a2c2.chunk.js",
+    "static/media/lipata_hazard_map.jpg": "/static/media/lipata_hazard_map.6b2f0d114a0574ef122a.jpg",
+    "static/media/paranas_seal.png": "/static/media/paranas_seal.19f54212c57788df6b2a.png",
+    "static/media/dynaslope_seal.png": "/static/media/dynaslope_seal.6e122a943b15e0010a22.png",
+    "static/media/phivolcs_seal.png": "/static/media/phivolcs_seal.7be0e61fcea614dc3f41.png",
+    "static/media/dynaslope_seal_mini.png": "/static/media/dynaslope_seal_mini.8d321c72168205639248.png",
+    "static/media/pdrrmo_seal.png": "/static/media/pdrrmo_seal.8ed235ff33e5b473f544.png",
+    "static/media/mdrrmo_seal.png": "/static/media/mdrrmo_seal.7369e3023f3b31720c88.png",
+    "static/media/lewc_seal.png": "/static/media/lewc_seal.af0d1eba0a51be155184.png",
+    "index.html": "/index.html",
+    "main.c47485ac.css.map": "/static/css/main.c47485ac.css.map",
+    "main.8595956a.js.map": "/static/js/main.8595956a.js.map",
+    "787.d1d4a2c2.chunk.js.map": "/static/js/787.d1d4a2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c47485ac.css",
+    "static/js/main.8595956a.js"
+  ]
+}
